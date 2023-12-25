@@ -1,0 +1,12 @@
+/Users/cs/git/Workintech/backend/sprints/spring/S19/S19D1/FSWEB-S19D1-Java-Projesi/src/main/java/com/s19d1/s19d1challenge/S19d1challengeApplication.java
+/Users/cs/git/Workintech/backend/sprints/spring/S19/S19D1/FSWEB-S19D1-Java-Projesi/src/main/java/com/s19d1/s19d1challenge/repository/ActorRepository.java
+/Users/cs/git/Workintech/backend/sprints/spring/S19/S19D1/FSWEB-S19D1-Java-Projesi/src/main/java/com/s19d1/s19d1challenge/service/MovieService.java
+/Users/cs/git/Workintech/backend/sprints/spring/S19/S19D1/FSWEB-S19D1-Java-Projesi/src/main/java/com/s19d1/s19d1challenge/converter/DtoConverter.java
+/Users/cs/git/Workintech/backend/sprints/spring/S19/S19D1/FSWEB-S19D1-Java-Projesi/src/main/java/com/s19d1/s19d1challenge/entity/Movie.java
+/Users/cs/git/Workintech/backend/sprints/spring/S19/S19D1/FSWEB-S19D1-Java-Projesi/src/main/java/com/s19d1/s19d1challenge/service/ActorServiceImpl.java
+/Users/cs/git/Workintech/backend/sprints/spring/S19/S19D1/FSWEB-S19D1-Java-Projesi/src/main/java/com/s19d1/s19d1challenge/dto/ActorResponse.java
+/Users/cs/git/Workintech/backend/sprints/spring/S19/S19D1/FSWEB-S19D1-Java-Projesi/src/main/java/com/s19d1/s19d1challenge/dto/MovieResponse.java
+/Users/cs/git/Workintech/backend/sprints/spring/S19/S19D1/FSWEB-S19D1-Java-Projesi/src/main/java/com/s19d1/s19d1challenge/repository/MovieRepository.java
+/Users/cs/git/Workintech/backend/sprints/spring/S19/S19D1/FSWEB-S19D1-Java-Projesi/src/main/java/com/s19d1/s19d1challenge/entity/Actor.java
+/Users/cs/git/Workintech/backend/sprints/spring/S19/S19D1/FSWEB-S19D1-Java-Projesi/src/main/java/com/s19d1/s19d1challenge/service/MovieServiceImpl.java
+/Users/cs/git/Workintech/backend/sprints/spring/S19/S19D1/FSWEB-S19D1-Java-Projesi/src/main/java/com/s19d1/s19d1challenge/service/ActorService.java
